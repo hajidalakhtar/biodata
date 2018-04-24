@@ -1,0 +1,95 @@
+.nav{
+  background-image: url(http://jk-assist.com/wp-content/uploads/2018/02/Web-Page-Background-Co-Amazing-Background-Colors-For-Web-Pages.jpg);
+  background-size: cover;
+
+
+
+}
+.nav-link{
+  color: white;
+}
+.jumbotron{
+  background-image: url(../img/bg.jpg);
+  background-size: cover;
+  height: 500px;
+  background-attachment: fixed;
+  margin-bottom: 0px;
+
+}
+.hr{
+
+  margin-top: 0px;
+  width: 250px;
+  background-color: white;
+}
+.Biodata-img{
+  border: 1px solid rgb(116, 130, 124);
+  width: 200px;
+  margin-top: 30px;
+  margin-left: 580px;
+  border-radius: 100%;
+}
+#biodata{
+
+  background-image: url(http://jk-assist.com/wp-content/uploads/2018/02/Web-Page-Background-Co-Amazing-Background-Colors-For-Web-Pages.jpg);
+  background-size: cover;
+    border-bottom: 5px solid orange;
+
+
+}
+.hr1{
+
+  margin-top: 10px;
+  width: 350px;
+  background-color: white;
+}
+.skillimg{
+
+  width: 100px;
+}
+.progress{
+  margin-top: 10px;
+margin-bottom: 30px;
+}
+.hr2{
+  width: 150px;
+  background-color: white;
+}
+#skil{
+  background-image: url(http://jk-assist.com/wp-content/uploads/2018/02/Web-Page-Background-Co-Amazing-Background-Colors-For-Web-Pages.jpg);
+  background-size: cover;
+    border-bottom: 5px solid orange;
+
+}
+#foto{
+  position: relative;
+  border-bottom: 5px solid orange;
+  background-image: url(http://jk-assist.com/wp-content/uploads/2018/02/Web-Page-Background-Co-Amazing-Background-Colors-For-Web-Pages.jpg);
+  background-size: cover;
+
+}
+body{
+  color: white;
+}
+.nav-link:hover{
+  color: #b0122e;
+}
+.text-biodata{
+  margin-left: 200px;
+}
+.biodata hr{
+
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: white;
+  width:300px;
+}
+#container{
+
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+#container div{
+  width: 100%;
+  position: relative;
+}
